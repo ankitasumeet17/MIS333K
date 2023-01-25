@@ -1,0 +1,56 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sumeet_Ankita_HW1
+build_property.RootNamespace = Sumeet_Ankita_HW1
+build_property.ProjectDir = /Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Clubs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DbHVicy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Food.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb29kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Internships.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbnRlcm5zaGlwcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Music.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9NdXNpYy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Home/Personality.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9QZXJzb25hbGl0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'fa22BevoPersonalSite' " />
+  <ItemGroup>
+    <None Remove="Controllers\" />
+    <None Remove="Views\" />
+    <None Remove="Views\Home\" />
+    <None Remove="Views\Shared\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
+    <Folder Include="wwwroot\" />
+    <Folder Include="wwwroot\lib\" />
+    <Folder Include="Views\Home\" />
+    <Folder Include="Views\Shared\" />
+    <Folder Include="wwwroot\files\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\lib\" />
+    <Content Remove="wwwroot\files\" />
+    <Content Remove="wwwroot\images\" />
+    <Content Remove="wwwroot\images\Keen.jpg" />
+    <Content Remove="wwwroot\images\airbnb.jpg" />
+    <Content Remove="wwwroot\images\bday.jpg" />
+    <Content Remove="wwwroot\images\Keen.jpg" />
+    <Content Remove="wwwroot\images\bday.jpeg" />
+    <Content Remove="wwwroot\images\airbnb.jpeg" />
+    <Content Remove="wwwroot\images\keen.jpeg" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,42 @@
+﻿@model GuestResponse
+@{ Layout = null; }
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>RsvpForm</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <h5 class="bg-primary text-white text-center m-2 p-2">RSVP</h5>
+    <form asp-action="RsvpForm" method="post" class="m-2">
+        <div asp-validation-summary="All"></div>
+        <div class="form-group">
+            <label asp-for="Name">Your name:</label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Email">Your email:</label>
+            <input asp-for="Email" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Phone">Your phone:</label>
+            <input asp-for="Phone" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label>Will you attend?</label>
+            <select asp-for="WillAttend" class="form-select">
+                <option value="">Choose an option</option>
+                <option value="true">Yes, I'll be there</option>
+                <option value="false">No, I can't come</option>
+            </select>
+        </div>
+        <div class="form-group text-center m-2 p-2">
+            <button type="submit" class="btn btn-primary">Submit RSVP</button>
+        </div>
+    </form>
+</body>
+</html> 

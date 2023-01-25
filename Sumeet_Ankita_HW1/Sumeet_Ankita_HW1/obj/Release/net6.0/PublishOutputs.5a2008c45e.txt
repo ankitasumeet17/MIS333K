@@ -1,0 +1,8 @@
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/Sumeet_Ankita_HW1
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/libman.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/Sumeet_Ankita_HW1.deps.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/Sumeet_Ankita_HW1.runtimeconfig.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Release/net6.0/PubTmp/Out/Sumeet_Ankita_HW1.pdb

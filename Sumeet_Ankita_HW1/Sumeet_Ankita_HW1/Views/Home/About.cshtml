@@ -1,0 +1,64 @@
+﻿<br /> <!--This is a line break to make a blank line-->
+<h1>About Me</h1>
+<hr /> <!--This makes a line across the page-->
+<h4>Hello, my name is Ankita!</h4>
+<br /> <!--This is a line break to make a blank line-->
+<p>I am a Juior in the McCombs School of Business, pursuing a major in MIS (Management Information Systems) and a certificate in the Elements of Computing.</p>
+<p>This summer, I interned at Coinbase, working on the People Analytics Team and I am currently recruiting for a summer '23 internship. Feel free to reach me at <a href="mailto: ankitasumeet17@utexas.edu">my business email</a>.</p>
+<p>In my free time, I enjoy reading, writing, working on puzzles, and learning new languages. Enjoy my collage of pictures below! </p>
+<hr /> <!--This makes a line across the page-->
+
+<!DOCTYPE html>
+<html>
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        margin: 0;
+        font-family: Arial;
+    }
+
+    .header {
+        text-align: center;
+        padding: 32px;
+    }
+
+    /* Create two equal columns that floats next to each other */
+    .column {
+        float: left;
+        width: 50%;
+        padding: 10px;
+    }
+
+        .column img {
+            margin-top: 12px;
+        }
+
+    /* Clear floats after the columns */
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+</style>
+<body>
+
+    <!-- Photo Grid -->
+    <div class="row">
+        <div class="column">
+            <img src="~/images/ind.jpeg" style="width:100%">
+            <img src="~/images/bpa.jpeg" style="width:100%">
+            <img src="~/images/bday.jpeg" style="width:100%">
+            <img src="~/images/band.JPG" style="width:100%">
+            <img src="~/images/i.jpeg" style="width:100%">
+        </div>
+        <div class="column">
+            <img src="~/images/airbnb.jpeg" style="width:100%">
+            <img src="~/images/KeetNeek.jpeg" style="width:100%">
+            <img src="~/images/keen.jpeg" style="width:100%">
+        </div>
+    </div>
+</body>
+</html>

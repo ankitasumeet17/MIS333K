@@ -1,0 +1,52 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Sumeet_Ankita_HW3
+build_property.RootNamespace = Sumeet_Ankita_HW3
+build_property.ProjectDir = /Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Home/DetailedSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXRhaWxlZFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Seed/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9Db25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Seed/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW3/Sumeet_Ankita_HW3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+
+<br /> <!--This is a line break to make a blank line-->
+<h1 class="text-center">Welcome to My Website</h1>
+
+<h4 class="text-center">My name is Ankita and I am a student at UT! (connect with me on <a href="https://www.linkedin.com/in/ankitasumeet/">LinkedIn</a>!)</h4>
+
+<div class="align-self-sm-center">
+    <img class="w-50 h-auto rounded mx-auto d-block"
+         src="~/images/Ankita.jpg" alt="Here is a picture of me!" title="BPA Nats Senior Year :)" />
+</div>
+<br />
+<div class="text-center">
+    <div class="btn-group-lg">
+        <a asp-action="About" class="btn btn-info">About Me</a>
+        <a asp-action="Internships" class="btn btn-info">Internships</a>
+        <a asp-action="Clubs" class="btn btn-info">Clubs</a>
+        <a asp-action="Personality" class="btn btn-info">Personality</a>
+        <a asp-action="Music" class="btn btn-info">Music</a>
+        <a asp-action="Food" class="btn btn-info">Food</a>
+        <a asp-action="Resume" class="btn btn-info">Resume</a>     
+    </div>
+</div>
+<hr class="hr-danger" />
+
+<!--TODO:  Add a table of your classes here!-->
+<!--HINT: Here's a good website for some help on tables: https://www.w3schools.com/html/html_tables.asp-->
+<!DOCTYPE html>
+<html>
+<style>
+    table, th, td {
+        border: 1px solid black;
+    }
+</style>
+<body>
+
+    <h2 class="text-center">Course Schedule</h2>
+
+    <table style="width:100%">
+        <tr>
+            <th><b>Class Name</b></th>
+            <th><b>Course #</b></th>
+            <th><b>Time</b></th>
+        </tr>
+        <tr>
+            <td>MIS 333K</td>
+            <td>04725</td>
+            <td>12:30 - 2:00 T/TH</td>
+        </tr>
+        <tr>
+            <td>MAN 336</td>
+            <td>05885</td>
+            <td>9:30 - 11:00 M/W</td>
+        </tr>
+        <tr>
+            <td>MKT 337</td>
+            <td>06260</td>
+            <td>9:30 - 11:00 T/TH</td>
+        </tr>
+        <tr>
+            <td>GOV 310L</td>
+            <td>38315</td>
+            <td>2:00 - 3:00 M/W/F</td>
+        </tr>
+        <tr>
+            <td>BA 353</td>
+            <td>02215</td>
+            <td>N/A</td>
+        </tr>
+    </table>
+</body>
+</html>
+<hr /> <!--This makes a line across the page-->
+<br /> <!--This is a line break to make a blank line-->
+<h2 class="text-center">TED Talk</h2>
+<p><center>Here's a great Ted Talk from Benjamin Zander explaining the transformative power of music. (As a former musician, I truly appreciate this).</center></p>
+<div class="container">
+    <div class="row">
+        <div class="col-2"></div>
+        <div class="col-8">
+            <div style="max-width:854px">
+                <div style="max-width:854px">
+                    <div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/benjamin_zander_the_transformative_power_of_classical_music" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-2"></div>
+    </div>
+</div>

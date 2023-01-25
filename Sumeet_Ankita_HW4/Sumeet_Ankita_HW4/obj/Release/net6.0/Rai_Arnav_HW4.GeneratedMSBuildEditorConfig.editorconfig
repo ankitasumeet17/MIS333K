@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rai_Arnav_HW4
+build_property.RootNamespace = Rai_Arnav_HW4
+build_property.ProjectDir = /Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/RoleAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/RoleAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/RoleAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9sZUFkbWluL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Seed/Confirm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9Db25maXJtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Seed/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arnavrai/Desktop/MIS_333K/Rai_Arnav_HW4/Rai_Arnav_HW4/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

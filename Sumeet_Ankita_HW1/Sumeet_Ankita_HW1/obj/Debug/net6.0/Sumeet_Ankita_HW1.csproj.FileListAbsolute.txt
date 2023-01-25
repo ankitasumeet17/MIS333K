@@ -1,0 +1,50 @@
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/appsettings.Development.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/appsettings.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.deps.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.runtimeconfig.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.pdb
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.csproj.AssemblyReference.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.AssemblyInfoInputs.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.AssemblyInfo.cs
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.csproj.CoreCompileInputs.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.MvcApplicationPartsAssemblyInfo.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/scopedcss/bundle/Sumeet_Ankita_HW1.styles.css
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/refint/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.pdb
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.genruntimeconfig.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/ref/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/libman.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.staticwebassets.runtime.json
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.RazorAssemblyInfo.cache
+/Users/ankitasumeet/Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.RazorAssemblyInfo.cs
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/appsettings.Development.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/appsettings.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/libman.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.staticwebassets.runtime.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.deps.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.runtimeconfig.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/bin/Debug/net6.0/Sumeet_Ankita_HW1.pdb
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.csproj.AssemblyReference.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.AssemblyInfoInputs.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.AssemblyInfo.cs
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.csproj.CoreCompileInputs.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.MvcApplicationPartsAssemblyInfo.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.RazorAssemblyInfo.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.RazorAssemblyInfo.cs
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/staticwebassets.build.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/staticwebassets.development.json
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/scopedcss/bundle/Sumeet_Ankita_HW1.styles.css
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/refint/Sumeet_Ankita_HW1.dll
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.pdb
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/Sumeet_Ankita_HW1.genruntimeconfig.cache
+/Users/ankitasumeet/Documents/333K Projects/Sumeet_Ankita_HW1/Sumeet_Ankita_HW1/obj/Debug/net6.0/ref/Sumeet_Ankita_HW1.dll

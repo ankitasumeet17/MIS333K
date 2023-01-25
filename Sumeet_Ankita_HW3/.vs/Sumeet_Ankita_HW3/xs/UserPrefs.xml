@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{CEEEF73F-3C0D-4C26-A3C0-D3CB5FB7EC39}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sumeet_Ankita_HW3/Controllers/SeedController.cs">
+    <Files>
+      <File FileName="Sumeet_Ankita_HW3/Controllers/SeedController.cs" Line="22" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/DAL/AppDbContext.cs" Line="5" Column="19" />
+      <File FileName="Sumeet_Ankita_HW3/Models/AppUser.cs" Line="5" Column="2" />
+      <File FileName="Sumeet_Ankita_HW3/Models/Language.cs" Line="10" Column="33" />
+      <File FileName="Sumeet_Ankita_HW3/Models/Repository.cs" Line="21" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Seeding/SeedLanguages.cs" Line="8" Column="2" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Seed/Index.cshtml" Line="2" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Seed/Confirm.cshtml" Line="4" Column="106" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Shared/_Layout.cshtml" Line="8" Column="8" />
+      <File FileName="Sumeet_Ankita_HW3/Seeding/SeedRepositories.cs" Line="7" Column="36" />
+      <File FileName="Sumeet_Ankita_HW3/Views/_ViewImports.cshtml" Line="8" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Views/_ViewStart.cshtml" Line="4" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/libman.json" Line="17" Column="6" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Program.cs" Line="24" Column="46" />
+      <File FileName="Sumeet_Ankita_HW3/Migrations/20221015235507_Setup.cs" Line="1" Column="1" />
+      <File FileName="Sumeet_Ankita_HW3/Controllers/HomeController.cs" Line="16" Column="2" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Home/Index.cshtml" Line="65" Column="22" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Home/Details.cshtml" Line="66" Column="14" />
+      <File FileName="Sumeet_Ankita_HW3/Models/ViewModels/SearchViewModel.cs" Line="13" Column="18" />
+      <File FileName="Sumeet_Ankita_HW3/Views/Home/DetailedSearch.cshtml" Line="5" Column="2" />
+      <File FileName="Sumeet_Ankita_HW3/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sumeet_Ankita_HW3" expanded="True">
+            <Node name="Sumeet_Ankita_HW3" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SeedController.cs" selected="True" />
+              </Node>
+              <Node name="Seeding" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Seed" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Sumeet__Ankita__HW3 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

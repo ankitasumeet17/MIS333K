@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{9C5BF559-6EAF-4CB9-9066-74BF0D5B207A}|fa22BevoPersonalSite">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sumeet__Ankita__HW1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sumeet_Ankita_HW1/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Sumeet_Ankita_HW1/libman.json" Line="7" Column="12" />
+      <File FileName="Sumeet_Ankita_HW1/Controllers/HomeController.cs" Line="3" Column="21" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/About.cshtml" Line="53" Column="19" />
+      <File FileName="Sumeet_Ankita_HW1/Properties/launchSettings.json" Line="16" Column="27" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Shared/_Layout.cshtml" Line="13" Column="47" />
+      <File FileName="Sumeet_Ankita_HW1/Views/_ViewImports.cshtml" Line="2" Column="10" />
+      <File FileName="Sumeet_Ankita_HW1/Views/_ViewStart.cshtml" Line="3" Column="2" />
+      <File FileName="Sumeet_Ankita_HW1/Program.cs" Line="48" Column="1" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Index.cshtml" Line="18" Column="69" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Internships.cshtml" Line="8" Column="14" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Clubs.cshtml" Line="10" Column="23" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Music.cshtml" Line="9" Column="48" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Personality.cshtml" Line="19" Column="7" />
+      <File FileName="Sumeet_Ankita_HW1/Views/Home/Food.cshtml" Line="11" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sumeet_Ankita_HW1" expanded="True">
+            <Node name="Sumeet_Ankita_HW1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="files" expanded="True" />
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

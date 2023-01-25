@@ -1,0 +1,36 @@
+﻿@model Sumeet_Ankita_HW2.Models.DirectOrder
+
+@{
+    ViewData["Title"] = "Checkout Direct";
+}
+
+<h1>Direct Customer Checkout</h1>
+<hr />
+<div class=[DisplayFormat(DataFormatString = "{0:c}")]"text-danger">@ViewBag.ErrorMessage</div>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="DirectTotals" method="get">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfHardbacks" class="control-label"></label>
+                <input asp-for="NumberOfHardbacks" class="form-control" />
+                <span asp-validation-for="NumberOfHardbacks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumberOfPaperbacks" class="control-label"></label>
+                <input asp-for="NumberOfPaperbacks" class="form-control" />
+                <span asp-validation-for="NumberOfPaperbacks" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-success">Home</a>
+            </div>
+        </form>
+    </div>
+</div>
